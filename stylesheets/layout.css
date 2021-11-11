@@ -182,7 +182,7 @@ blockquote span:after {
 	content: "\0020";
 	display: block;
 	border: 10px inset transparent;
-	border-top: 10px solid rgb(32, 127, 146);
+	border-top: 10px solid #5d999e;
 	float: right;
 	position: absolute;
 	right: 20px;
@@ -213,7 +213,7 @@ footer {
 }
 
 #creditlink {
-	background: rgb(32, 127, 146) url('../images/logo.svg');
+	background: #5d999e url('../images/logo.svg');
 	background-size: contain;
 	display: block;
 	width: 30px;

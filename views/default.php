@@ -22,7 +22,7 @@
 	<link rel="stylesheet" href="/<?php echo BASE_PATH; ?>stylesheets/skeleton.css">
 	<link rel="stylesheet" href="/<?php echo BASE_PATH; ?>stylesheets/layout.css">
 	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css">
-
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Sans:regular,500,600,700%7CRoboto:regular,500,700%7CBaloo+2:regular,500,600,700,800%7CNunito:200,300,regular,600,700,800,900" media="all">
 	<!-- Favicons
 	================================================== -->
 	<link rel="shortcut icon" href="/<?php echo BASE_PATH; ?>images/favicon.png">
