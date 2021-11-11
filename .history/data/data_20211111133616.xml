@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+<game>
+	<title>
+		Babypoom
+	</title>
+	<founding-date>
+		September 1, 2018
+	</founding-date>
+	<website>
+		https://www.babypoom.com/
+	</website>
+	<based-in>
+		France
+	</based-in>
+	<color>
+		#1f1824
+	</color>
+	<platforms>
+		<platform>
+			<name>
+				Steam
+			</name>
+			<link>
+				https://store.steampowered.com/app/1268370/holedown/
+			</link>
+		</platform>
+		<platform>
+			<name>
+				App Store
+			</name>
+			<link>
+				<![CDATA[ https://itunes.apple.com/us/app/holedown/id1297270249?ls=1&amp;mt=8 ]]>
+			</link>
+		</platform>
+		<platform>
+			<name>
+				Google Play
+			</name>
+			<link>
+				https://play.google.com/store/apps/details?id=com.babypoom
+			</link>
+		</platform>
+	</platforms>
+	<press-contact>
+		hello@babypoom.com
+	</press-contact>
+	<phone>
+		+33 7 56 83 34 77
+	</phone>
+	<address>
+		<line>
+			Address Line 1
+		</line>
+		<line>
+			Address Line 2
+		</line>
+		<line>
+			Address Line 3
+		</line>
+	</address>
+	<socials>
+		<social>
+			<name>
+				Facebook Page
+			</name>
+			<link>
+				https://www.facebook.com/babypoom
+			</link>
+		</social>
+		<social>
+			<name>
+				Instagram
+			</name>
+			<link>
+				https://www.instagram.com/babypoomapp/
+			</link>
+		</social>
+		<social>
+			<name>
+				Review.io
+			</name>
+			<link>
+				https://www.reviews.io/company-reviews/store/baby-poom
+			</link>
+		</social>
+	</socials>
+	<description>
+		We're games studio and we make games. We're also capable of editing XML files.
+	</description>
+	<histories>
+		<history>
+			<header>
+				Early history
+			</header>
+			<text>
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel nisi dolor. Pellentesque vitae eros velit, quis venenatis orci. Phasellus elit urna, semper ut gravida et, porta non dui. Aliquam erat volutpat. Aenean porta volutpat imperdiet. Maecenas venenatis, tellus eget vehicula vulputate, augue erat elementum quam, tincidunt laoreet magna orci et mauris. Proin porttitor pharetra nisi, accumsan sollicitudin neque varius a. Aenean ut massa ipsum, id hendrerit lacus. Maecenas posuere egestas nunc at cursus. Etiam mollis libero vel eros pulvinar aliquam. Sed vitae turpis sed nibh venenatis dictum. Sed suscipit orci justo, at sagittis ante. Sed leo nisl, ultricies in fermentum id, aliquam id dolor. Ut laoreet, felis id posuere bibendum, arcu ipsum lacinia est, eu lobortis velit enim eget mi. In ullamcorper ullamcorper enim ut gravida. Vivamus rutrum lacus mollis risus malesuada iaculis.
+			</text>
+		</history>
+		<history>
+			<header>
+				After that
+			</header>
+			<text>
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sem dui, volutpat eu adipiscing sed, rutrum aliquam lacus. Proin sollicitudin consequat dolor id dignissim. Aliquam sem turpis, sagittis lobortis viverra eget, varius vitae nunc. Proin ac lacus porttitor dui sollicitudin elementum. Nulla ut hendrerit est. Fusce vitae arcu erat, vel molestie est. Proin et placerat justo. Proin placerat arcu massa, eu blandit leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam eu lorem sed massa lobortis hendrerit vitae vel odio. Maecenas eget pulvinar tortor. Nunc vitae nisl ac odio bibendum luctus ac a leo. Suspendisse auctor elit et velit sagittis vehicula. Maecenas faucibus blandit rutrum. Duis et sem nibh. Vestibulum placerat elit et dui rhoncus accumsan.
+			</text>
+		</history>
+	</histories>
+	<trailers>
+		<trailer>
+			<name>
+				This video is nice
+			</name>
+			<youtube>
+				7jQbITg0MSk
+			</youtube>
+		</trailer>
+		<trailer>
+			<name>
+				This one too
+			</name>
+			<youtube>
+				0CevOaYrYDA
+			</youtube>
+			<vimeo>
+				12536488
+			</vimeo>
+		</trailer>
+	</trailers>
+	<awards>
+		<award>
+			<description>
+				Winner in this highly relevant contest.
+			</description>
+			<info>
+				Award Location, 20 October, 1989
+			</info>
+		</award>
+		<award>
+			<description>
+				Nomination for this prestigious award.
+			</description>
+			<info>
+				Award Ceremony, 4 December, 1991
+			</info>
+		</award>
+		<award>
+			<description>
+				Winner in this highly relevant contest.
+			</description>
+			<info>
+				Award Location, 20 October, 1989
+			</info>
+		</award>
+		<award>
+			<description>
+				Nomination for this prestigious award.
+			</description>
+			<info>
+				Award Ceremony, 4 December, 1991
+			</info>
+		</award>
+	</awards>
+	<quotes>
+		<quote>
+			<description>
+				Application au top. Une idée original pour attendre le moment de la naissance et une belle façon de faire découvrir ce bonheur aux proches
+			</description>
+			<name>
+				Millie
+			</name>
+			<website>
+				Reviews.io
+			</website>
+			<link>
+				https://www.reviews.io/company-reviews/store/baby-poom
+			</link>
+		</quote>
+		<quote>
+			<description>
+				Cela a été un réel plaisir d’utiliser votre service. C'était d’une simplicité dingue et le rendu est tellement bien. Cela a fait des émules dans le partage de la nouvelle. Attendez vous à rencontrer un franc succès que je vous souhaite de tout cœur. À bientôt Babypoom team :)
+			</description>
+			<name>
+				Christopher
+			</name>
+			<website>
+				Reviews.io
+			</website>
+			<link>
+				https://www.reviews.io/company-reviews/store/baby-poom
+			</link>
+		</quote>
+		<quote>
+			<description>
+				Un service genialissime découvert à la naissance du bébé d'un proche. Notre entourage est tombé sous le charme à son tour. Longue vie à BabyPoom
+			</description>
+			<name>
+				Laetitia
+			</name>
+			<website>
+				Reviews.io
+			</website>
+			<link>
+				https://www.reviews.io/company-reviews/store/baby-poom
+			</link>
+		</quote>
+		<quote>
+			<description>
+				Très facile à faire, l'annonce à beaucoup plus à nos proches, très original et le livre d'or c est bien rempli. Je conseille vivement.
+			</description>
+			<name>
+				Alizée
+			</name>
+			<website>
+				Reviews.io
+			</website>
+			<link>
+				https://www.reviews.io/company-reviews/store/baby-poom
+			</link>
+		</quote>
+		<press-can-request-copy>
+			TRUE
+		</press-can-request-copy>
+		<!-- can be true or false -->
+		<monetization-permission>
+			monetize
+		</monetization-permission>
+		<!--
+		can be: 	false (no video allowed),
+		ask (permission on case-per-case basis),
+		non-commercial (no monetization allowed),
+		monetize (full permission)
+		-->
+		<additionals>
+			<additional>
+				<title>
+					Company Link #1
+				</title>
+				<description>
+					This link is a link that might be useful. You can check it out at
+				</description>
+				<link>
+					http://somemusicsite.com/thislink
+				</link>
+			</additional>
+		</additionals>
+		<credits>
+			<credit>
+				<person>
+					Jerome IDYLLE
+				</person>
+				<role>
+					CEO, Fondateur
+				</role>
+			</credit>
+			<credit>
+				<person>
+					Guillaume Tournier
+				</person>
+				<role>
+					CTO
+				</role>
+			</credit>
+			<credit>
+				<person>
+					Gregory Jaklimovitch
+				</person>
+				<role>
+					Directeur Artistique
+				</role>
+			</credit>
+		</credits>
+		<contacts>
+			<contact>
+				<name>
+					Mail
+				</name>
+				<mail>
+					hello@babypoom.com
+				</mail>
+			</contact>
+			<contact>
+				<name>
+					Facebook
+				</name>
+				<link>
+					http://twitter.com/MyCompanyName
+				</link>
+			</contact>
+			<contact>
+				<name>
+					Instagram
+				</name>
+				<link>
+					http://facebook.com/MyCompanyName
+				</link>
+			</contact>
+			<contact>
+				<name>
+					Web
+				</name>
+				<link>
+					Babypoom.com
+				</link>
+			</contact>
+		</contacts>
+	</quotes>
+</game>
