@@ -218,91 +218,90 @@
 				https://www.reviews.io/company-reviews/store/baby-poom
 			</link>
 		</quote>
-	</quotes>
-	<press-can-request-copy>
-		TRUE
-	</press-can-request-copy>
-	<!-- can be true or false -->
-	<monetization-permission>
-		monetize
-	</monetization-permission>
-	<!--
-	can be: 	false (no video allowed),
-	ask (permission on case-per-case basis),
-	non-commercial (no monetization allowed),
-	monetize (full permission)
-	-->
-	<additionals>
-		<additional>
-			<title>
-				Company Link #1
-			</title>
-			<description>
-				This link is a link that might be useful. You can check it out at
-			</description>
-			<link>
-				http://somemusicsite.com/thislink
-			</link>
-		</additional>
-	</additionals>
-	<credits>
-		<credit>
-			<person>
-				Jerome IDYLLE
-			</person>
-			<role>
-				CEO, Fondateur
-			</role>
-		</credit>
-		<credit>
-			<person>
-				Guillaume Tournier
-			</person>
-			<role>
-				CTO
-			</role>
-		</credit>
-		<credit>
-			<person>
-				Gregory Jaklimovitch
-			</person>
-			<role>
-				Directeur Artistique
-			</role>
-		</credit>
-	</credits>
-	<contacts>
-		<contact>
-			<name>
-				Mail
-			</name>
-			<mail>
-				hello@babypoom.com
-			</mail>
-		</contact>
-		<contact>
-			<name>
-				Facebook
-			</name>
-			<link>
-				http://twitter.com/MyCompanyName
-			</link>
-		</contact>
-		<contact>
-			<name>
-				Instagram
-			</name>
-			<link>
-				http://facebook.com/MyCompanyName
-			</link>
-		</contact>
-		<contact>
-			<name>
-				Web
-			</name>
-			<link>
-				Babypoom.com
-			</link>
-		</contact>
-	</contacts>
+		<press-can-request-copy>
+			TRUE
+		</press-can-request-copy>
+		<!-- can be true or false -->
+		<monetization-permission>
+			monetize
+		</monetization-permission>
+		<!--
+		can be: 	false (no video allowed),
+		ask (permission on case-per-case basis),
+		non-commercial (no monetization allowed),
+		monetize (full permission)
+		-->
+		<additionals>
+			<additional>
+				<title>
+					Company Link #1
+				</title>
+				<description>
+					This link is a link that might be useful. You can check it out at
+				</description>
+				<link>
+					http://somemusicsite.com/thislink
+				</link>
+			</additional>
+		</additionals>
+		<credits>
+			<credit>
+				<person>
+					Jerome IDYLLE
+				</person>
+				<role>
+					CEO, Fondateur
+				</role>
+			</credit>
+			<credit>
+				<person>
+					Guillaume Tournier
+				</person>
+				<role>
+					CTO
+				</role>
+			</credit>
+			<credit>
+				<person>
+					Gregory Jaklimovitch
+				</person>
+				<role>
+					Directeur Artistique
+				</role>
+			</credit>
+		</credits>
+		<contacts>
+			<contact>
+				<name>
+					Mail
+				</name>
+				<mail>
+					hello@babypoom.com
+				</mail>
+			</contact>
+			<contact>
+				<name>
+					Facebook
+				</name>
+				<link>
+					http://twitter.com/MyCompanyName
+				</link>
+			</contact>
+			<contact>
+				<name>
+					Instagram
+				</name>
+				<link>
+					http://facebook.com/MyCompanyName
+				</link>
+			</contact>
+			<contact>
+				<name>
+					Web
+				</name>
+				<link>
+					Babypoom.com
+				</link>
+			</contact>
+		</contacts>
 </game>
