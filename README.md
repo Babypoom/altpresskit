@@ -1,6 +1,6 @@
 # alt presskit()
 
-Is a free (both as in speech and as in beer) alternative to the excellent [presskit()](http://dopresskit.com/)
+Is a test free (both as in speech and as in beer) alternative to the excellent [presskit()](http://dopresskit.com/)
 
 ## Why make an alternative?
 
