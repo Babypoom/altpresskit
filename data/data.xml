@@ -3,12 +3,12 @@
 
 <game>	
 	<title>Babypoom</title>
-	<founding-date>September 1, 2010</founding-date>
-	<website>http://www.website.com/</website>
-	<based-in>Cityville, Metropolisland</based-in>
+	<founding-date>September 1, 2018</founding-date>
+	<website>https://www.babypoom.com/</website>
+	<based-in>France</based-in>
 	
-	<press-contact>press-contact@company.com</press-contact>
-	<phone>+00 (1) 22 33 44 55 66</phone>
+	<press-contact>hello@babypoom.com</press-contact>
+	<phone>+33 7 56 83 34 77</phone>
 	<address>
 		<line>Address Line 1</line>
 		<line>Address Line 2</line>
@@ -17,16 +17,16 @@
 
 	<socials>
 		<social>
-			<name>twitter.com/MyCompanyName</name>
-			<link>twitter.com/MyCompanyName</link>
+			<name>Facebook Page</name>
+			<link>https://www.facebook.com/babypoom</link>
 		</social>
 		<social>
-			<name>facebook.com/MyCompanyName</name>
-			<link>facebook.com/MyCompanyName</link>
+			<name>Instagram</name>
+			<link>https://www.instagram.com/babypoomapp/</link>
 		</social>
 		<social>
-			<name>Skype</name>
-			<link>callto:MySkypeName</link>
+			<name>Review.io</name>
+			<link>https://www.reviews.io/company-reviews/store/baby-poom</link>
 		</social>
 	</socials>
 
@@ -78,28 +78,28 @@
 	
 	<quotes>
 		<quote>
-			<description>This is a rather insignificant quote by a highly important person.</description>
-			<name>Person Name</name>
-			<website>Website</website>
-			<link>http://www.website.com/</link>
+			<description>Application au top. Une idée original pour attendre le moment de la naissance et une belle façon de faire découvrir ce bonheur aux proches</description>
+			<name>Millie</name>
+			<website>Reviews.io</website>
+			<link>https://www.reviews.io/company-reviews/store/baby-poom</link>
 		</quote>
 		<quote>
-			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
-			<name>Some Guy</name>
-			<website>This Page Is Visited By 12 Visitors A Month</website>
-			<link>http://geocities.blog.com/</link>
+			<description>Cela a été un réel plaisir d’utiliser votre service. C’était d’une simplicité dingue et le rendu est tellement bien. Cela a fait des émules dans le partage de la nouvelle. Attendez vous à rencontrer un franc succès que je vous souhaite de tout cœur. À bientôt Babypoom team :)</description>
+			<name>Christopher/name>
+			<website>Reviews.io</website>
+			<link>https://www.reviews.io/company-reviews/store/baby-poom</link>
 		</quote>
 		<quote>
-			<description>I pretend to love this game even though I do not actually understand it.</description>
-			<name>Pretentious Bastard</name>
-			<website>Artsy Page</website>
-			<link>http://art.tumblr.com/</link>
+			<description>Un service genialissime découvert à la naissance du bébé d'un proche. Notre entourage est tombé sous le charme à son tour. Longue vie à BabyPoom</description>
+			<name>Laetitia</name>
+			<website>Reviews.io</website>
+			<link>https://www.reviews.io/company-reviews/store/baby-poom</link>
 		</quote>
 		<quote>
-			<description>HOLY SHIT SO AMAZING</description>
-			<name>Caps Guy</name>
-			<website>Angry Review</website>
-			<link>http://thispage.net/angrytube</link>
+			<description>Très facile à faire, l annonce à beaucoup plus à nos proches, très original et le livre d or c est bien rempli. Je conseille vivement.</description>
+			<name>Alizée</name>
+			<website>Reviews.io</website>
+			<link>https://www.reviews.io/company-reviews/store/baby-poom</link>
 		</quote>
 	</quotes>
 	
@@ -118,37 +118,35 @@
 	
 	<credits>
 		<credit>
-			<person>John Doe</person>
-			<role>Artist, Freelancer</role>
+			<person>Jerome IDYLLE</person>
+			<role>CEO, Fondateur</role>
 		</credit>
 		<credit>
-			<person>Oliver Twist</person>
-			<website>www.olivertwist.com</website>
-			<role>Artist, Freelancer</role>
+			<person>Guillaume Tournier</person>
+			<role>CTO</role>
 		</credit>
 		<credit>
-			<person>Jane Doette</person>
-			<website>www.olivertwist.com</website>
-			<role>Music, Freelancer</role>
+			<person>Gregory Jaklimovitch</person>
+			<role>Directeur Artistique</role>
 		</credit>
 	</credits>
 	
 	<contacts>
 		<contact>
-			<name>Inquiries</name>
-			<mail>rami@vlambeer.com</mail>
-		</contact>
-		<contact>
-			<name>Twitter</name>
-			<link>http://twitter.com/MyCompanyName</link>
+			<name>Mail</name>
+			<mail>hello@babypoom.com</mail>
 		</contact>
 		<contact>
 			<name>Facebook</name>
+			<link>http://twitter.com/MyCompanyName</link>
+		</contact>
+		<contact>
+			<name>Instagram</name>
 			<link>http://facebook.com/MyCompanyName</link>
 		</contact>
 		<contact>
 			<name>Web</name>
-			<link>MyCompanyWebsite.com</link>
+			<link>Babypoom.com</link>
 		</contact>
 	</contacts>
 </game>
