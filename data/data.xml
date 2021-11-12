@@ -5,7 +5,7 @@
 		Babypoom
 	</title>
 	<founding-date>
-		September 1, 2018
+		Juillet 2018
 	</founding-date>
 	<website>
 		https://www.babypoom.com/
@@ -22,7 +22,7 @@
 				Version Apple
 			</name>
 			<link>
-				<![CDATA[ https://itunes.apple.com/us/app/holedown/id1297270249?ls=1&amp;mt=8 ]]>
+				<![CDATA[ https://apps.apple.com/us/app/babypoom-app/id1540418973 ]]>
 			</link>
 		</platform>
 		<platform>
@@ -247,7 +247,7 @@
 				Guillaume Tournier
 			</person>
 			<role>
-				CTO
+				CTO, Direction Technique
 			</role>
 		</credit>
 		<credit>
@@ -255,7 +255,7 @@
 				Gregory Jaklimovitch
 			</person>
 			<role>
-				Directeur Artistique
+				DA, Direction Artistique
 			</role>
 		</credit>
 	</credits>
