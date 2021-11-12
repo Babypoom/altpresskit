@@ -1,9 +1,10 @@
 <?php if ($data->images != null) : ?>
 <div id="images" class="twelve columns">
-	<h2>Images</h2>
+	<h2>Images
 		<?php if($data->imageZip != ""): ?>
-			<a class="download" title="Download all images as an archive" href="/<?php echo BASE_PATH . $data->imageZip; ?>">Télécharger le zip <?php echo ViewHelper::icon('download'); ?></a>
+			<a class="download" title="Download all images as an archive" href="/<?php echo BASE_PATH . $data->imageZip; ?>">Zip <?php echo ViewHelper::icon('download'); ?></a>
 		<?php endif; ?>
+	</h2>
 	<ul>
 	<?php 
 	
@@ -46,11 +47,11 @@
 
 <?php if(isset($data->logo)): ?>
 <div id="logo" class="twelve columns">
-	<h2>Logo</h2>
+	<h2>Logo
 		<?php if($data->logoZip != ""): ?>
-			<a class="download" title="Download all logos as an archive" href="/<?php echo BASE_PATH . $data->logoZip; ?>">Télécharger le zip <?php echo ViewHelper::icon('download'); ?></a>
+			<a class="download" title="Download all logos as an archive" href="/<?php echo BASE_PATH . $data->logoZip; ?>">Zip <?php echo ViewHelper::icon('download'); ?></a>
 		<?php endif; ?>
-	
+	</h2>
 	<a href="/<?php echo BASE_PATH . $data->logo; ?>"><img class="twelve columns alpha omega" src="/<?php echo BASE_PATH . $data->logo; ?>" alt="Logo" /></a>
 </div>
 
