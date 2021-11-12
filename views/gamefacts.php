@@ -1,5 +1,5 @@
 <div id="factsheet" class="four columns">
-	<h2>Fiche descriptive</h2>
+	<h2>Fiche</h2>
 	<dl>
 		<dt>Nom:</dt>
 		<dd><?php echo $developer->title; ?></dd>

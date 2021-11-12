@@ -1,6 +1,6 @@
 <div id="historydescription" class="eight columns alpha omega">
 	<div id="description" class="eight columns">
-		<h2>Un concept unique au monde</h2>
+		<h2>Résumé</h2>
 		<p><?php echo $data->description; ?></p>
 	</div>
 
@@ -31,7 +31,7 @@
 	$count = 0;
 	if(isset($data->games)): ?>
 		<div id="games" class="eight columns">
-			<h2>Projets</h2>
+			<!--<h2>Projets</h2>-->
 			<ul>
 			<?php
 			$count = 0;

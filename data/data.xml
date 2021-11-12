@@ -19,15 +19,7 @@
 	<platforms>
 		<platform>
 			<name>
-				Steam
-			</name>
-			<link>
-				https://store.steampowered.com/app/1268370/holedown/
-			</link>
-		</platform>
-		<platform>
-			<name>
-				App Store
+				Version Apple
 			</name>
 			<link>
 				<![CDATA[ https://itunes.apple.com/us/app/holedown/id1297270249?ls=1&amp;mt=8 ]]>
@@ -35,10 +27,18 @@
 		</platform>
 		<platform>
 			<name>
-				Google Play
+				Version Android
 			</name>
 			<link>
 				https://play.google.com/store/apps/details?id=com.babypoom
+			</link>
+		</platform>
+		<platform>
+			<name>
+				Version Web
+			</name>
+			<link>
+				https://app.babypoom.com
 			</link>
 		</platform>
 	</platforms>
@@ -233,19 +233,6 @@
 	non-commercial (no monetization allowed),
 	monetize (full permission)
 	-->
-	<additionals>
-		<additional>
-			<title>
-				Company Link #1
-			</title>
-			<description>
-				This link is a link that might be useful. You can check it out at
-			</description>
-			<link>
-				http://somemusicsite.com/thislink
-			</link>
-		</additional>
-	</additionals>
 	<credits>
 		<credit>
 			<person>
