@@ -126,7 +126,7 @@ h5 {
 	display: block;
 	padding: 10px;
 	margin: 0;
-	background: #5d999e;
+	background: #70c4c2;
 	text-decoration: none;
 	color: #fff;
 	font-weight: bold;
@@ -136,7 +136,7 @@ h5 {
 }
 
 #menu li a:hover {
-	background: #7abdc2;
+	background: #08bcc9;
 }
 
 #historydescription, #about {
@@ -173,7 +173,7 @@ blockquote {
 blockquote span {
 	padding: 9px 19px 10px 20px;
 	display: block;
-	background-color: #5d999e;
+	background-color: #70c4c2;
 	color: white;
 	border-radius: 10px;
 }
@@ -182,7 +182,7 @@ blockquote span:after {
 	content: "\0020";
 	display: block;
 	border: 10px inset transparent;
-	border-top: 10px solid #5d999e;
+	border-top: 10px solid #70c4c2;
 	float: right;
 	position: absolute;
 	right: 20px;
