@@ -86,45 +86,34 @@
 		</social>
 	</socials>
 	<description>
-		We're games studio and we make games. We're also capable of editing XML files.
+		Babypoom revisite le concept de faire-part de naissance en permettant aux parents d'annoncer à leurs proches la naissance de bébé de façon interactive, ludique et originale.
 	</description>
 	<histories>
 		<history>
 			<header>
-				Early history
+				L'histore
 			</header>
 			<text>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel nisi dolor. Pellentesque vitae eros velit, quis venenatis orci. Phasellus elit urna, semper ut gravida et, porta non dui. Aliquam erat volutpat. Aenean porta volutpat imperdiet. Maecenas venenatis, tellus eget vehicula vulputate, augue erat elementum quam, tincidunt laoreet magna orci et mauris. Proin porttitor pharetra nisi, accumsan sollicitudin neque varius a. Aenean ut massa ipsum, id hendrerit lacus. Maecenas posuere egestas nunc at cursus. Etiam mollis libero vel eros pulvinar aliquam. Sed vitae turpis sed nibh venenatis dictum. Sed suscipit orci justo, at sagittis ante. Sed leo nisl, ultricies in fermentum id, aliquam id dolor. Ut laoreet, felis id posuere bibendum, arcu ipsum lacinia est, eu lobortis velit enim eget mi. In ullamcorper ullamcorper enim ut gravida. Vivamus rutrum lacus mollis risus malesuada iaculis.
+				Créé à la naissance de sa fille, Jérôme son fondateur décide d'en faire une version grand public vu la forte demande des autres parents. Le principe est simple, les parents saisissent quelques informations sur la naissance de bébé sur l'application et Babypoom s'occupe de sublimer tout ce contenu en créant automatiquement une annonce sous forme de storytelling interactif avec des éléments de gamification. Cette annonce est ensuite partagée aux proches par les parents grâce à un simple lien généré et consultable quelque soit le device (smartphone, tablette...).
 			</text>
 		</history>
 		<history>
 			<header>
-				After that
+				Aujourd'hui
 			</header>
 			<text>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sem dui, volutpat eu adipiscing sed, rutrum aliquam lacus. Proin sollicitudin consequat dolor id dignissim. Aliquam sem turpis, sagittis lobortis viverra eget, varius vitae nunc. Proin ac lacus porttitor dui sollicitudin elementum. Nulla ut hendrerit est. Fusce vitae arcu erat, vel molestie est. Proin et placerat justo. Proin placerat arcu massa, eu blandit leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam eu lorem sed massa lobortis hendrerit vitae vel odio. Maecenas eget pulvinar tortor. Nunc vitae nisl ac odio bibendum luctus ac a leo. Suspendisse auctor elit et velit sagittis vehicula. Maecenas faucibus blandit rutrum. Duis et sem nibh. Vestibulum placerat elit et dui rhoncus accumsan.
+				Aujourd'hui, c'est environ 500 nouveaux parents par semaine qui s'inscrivent au service Babypoom pour annoncer la naissance de leur bout de chou de façon originale mais aussi recevoir un souvenir inoubliable de ce jour sous forme d'album imprimé livrable dans toutes les boites aux lettres du monde.
 			</text>
 		</history>
 	</histories>
 	<trailers>
 		<trailer>
 			<name>
-				This video is nice
+				Vidéo de l'histoire
 			</name>
 			<youtube>
-				7jQbITg0MSk
+				ltzGQZUox4
 			</youtube>
-		</trailer>
-		<trailer>
-			<name>
-				This one too
-			</name>
-			<youtube>
-				0CevOaYrYDA
-			</youtube>
-			<vimeo>
-				12536488
-			</vimeo>
 		</trailer>
 	</trailers>
 	<awards>
