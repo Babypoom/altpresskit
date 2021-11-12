@@ -1,6 +1,6 @@
 <div class="twelve columns">
 	<div id="credits" class="six columns alpha">
-		<h2>Team & Repeating Collaborators</h2>
+		<h2>L'équipe dirigeante</h2>
 		<dl>
 		<?php 
 		foreach($data->credits as $credit) {

@@ -1,7 +1,7 @@
 <?php if(isset($data->pressCanRequestCopy)) : ?>
 
 <div id="presscopy" class="twelve columns row">
-	<h2>Request press copy</h2>
+	<h2>Demander une copie</h2>
 
 	<?php if(strtolower($data->pressCanRequestCopy) == 'true' || $data->pressCanRequestCopy == 1) : ?>
 
@@ -16,7 +16,7 @@
 			<input type="text" id="publication" name="publication" />
 		</fieldset>
 
-		<button class="two columns omega" type="submit">Request</button>
+		<button class="two columns omega" type="submit">Valider</button>
 
 	</form>
 

@@ -1,18 +1,18 @@
 <div id="factsheet" class="four columns">
-	<h2>Factsheet</h2>
+	<h2>Fiche descriptive</h2>
 	<dl>
-		<dt>Developer:</dt>
+		<dt>Nom:</dt>
 		<dd><?php echo $developer->title; ?></dd>
 		<dd><?php echo $developer->basedIn; ?></dd>
 
 		<?php if($data->isDeveloper) : ?>
-			<dt>Founding date:</dt>
+			<dt>De de création :</dt>
 		<?php else : ?>
-			<dt>Release date:</dt>
+			<dt>Mise à jour:</dt>
 		<?php endif; ?>
 		<dd><?php echo $data->releaseDate; ?></dd>
 
-		<dt>Platforms:</dt>
+		<dt>Plateformes:</dt>
 		<?php
 		if (isset($data->platforms)) {
 			foreach($data->platforms as $platform) {
@@ -25,12 +25,12 @@
 		}
 		?>
 
-		<dt>Website:</dt>
+		<dt>Site:</dt>
 		<dd><?php echo ViewHelper::link($data->website); ?></dd>
 	</dl>
 
 	<?php if($data->prices != null) : ?>
-	<h5>Pricing:</h5>
+	<h5>Prix:</h5>
 	
 	<table class="prices">
 		<?php foreach($data->prices as $key => $platform): ?>

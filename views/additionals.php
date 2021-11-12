@@ -1,6 +1,6 @@
 <?php if (isset($data->additionals)): ?>
 <div id="additionals" class="twelve columns">
-	<h2>Additional Links</h2>
+	<h2>Autres liens</h2>
 	<dl>
 		<?php foreach($data->additionals as $additional): ?>
 			<dt><?php echo $additional['title']; ?></dt>
@@ -14,7 +14,7 @@
 
 <?php if(isset($data->quotes)): ?>
 <div id="articles" class="twelve columns">
-	<h2>Selected Articles</h2>
+	<h2>Avis clients</h2>
 	<ul>
 	<?php foreach($data->quotes as $quote): ?>
 		<li>
