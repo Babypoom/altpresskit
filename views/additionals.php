@@ -25,6 +25,9 @@
 		</li>
 	<?php endforeach; ?>
 	</ul>
+	<ul>
+		<li><a style="font-size:large" href="https://www.reviews.io/company-reviews/store/baby-poom">Voir tous les avis</a></li>
+	</ul>
 </div>
 
 <hr class="twelve columns" />

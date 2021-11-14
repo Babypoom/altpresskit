@@ -28,5 +28,9 @@
 			
 		} ?>
 		</dl>
+		<?php if ($data->phone != "") : ?>
+		<dt>Tel :</dt>
+		<dd><?php echo ViewHelper::callto($data->phone); ?></dd>
+		<?php endif; ?>
 	</div>
 </div>

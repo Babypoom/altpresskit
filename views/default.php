@@ -67,9 +67,6 @@
 
 		<?php echo $content; ?>
 
-		<footer class="one column offset-by-fifteen">
-			<a id="creditlink" href="/<?php echo BASE_PATH; ?>credits"><span>powered by alt. presskit()</span></a>
-		</footer>
 	</div><!-- container -->
 
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
