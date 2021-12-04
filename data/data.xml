@@ -235,6 +235,13 @@
 	<monetization-permission>
 		monetize
 	</monetization-permission>
+	<additionals>
+		<additional>
+			<title>Article Marie Claire</title>
+			<description>Le média Marie Claire parle de Babypoom dans sa rubrique "Les Adresses Incontournables"</description>
+			<link>https://www.marieclaire.fr/adresses-incontournables/faire-part-de-naissance-ludique-et-original-par-babypoom/</link>
+		</additional>
+	</additionals>
 	<!--
 	can be: 	false (no video allowed),
 	ask (permission on case-per-case basis),
